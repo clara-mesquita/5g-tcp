@@ -1,0 +1,11 @@
+					Connecting to host 124.70.94.181, port 6666
+					Reverse mode, remote host 124.70.94.181 is sending
+					[  5] local 10.62.238.2 port 37460 connected to 124.70.94.181 port 6666
+					[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+					[  5]   0.00-1.00   sec  11.5 MBytes  96.8 Mbits/sec  0.066 ms  876/12697 (6.9%)  
+					[  5]   1.00-2.00   sec  11.9 MBytes  99.7 Mbits/sec  0.287 ms  0/12171 (0%)  
+					[  5]   2.00-3.00   sec  11.1 MBytes  92.9 Mbits/sec  0.498 ms  769/12118 (6.3%)  
+					[  5]   3.00-4.00   sec  10.2 MBytes  85.3 Mbits/sec  0.279 ms  1790/12199 (15%)  
+					[  5]   4.00-5.00   sec  2.04 MBytes  17.1 Mbits/sec  0.064 ms  92/2184 (4.2%)  
+					[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec  0.064 ms  0/0 (0%)  
+					[  5]   5.00-6.00   sec  0.00 Bytes  0.00 bits/sec  0.064 ms  0/0 (0%)  
